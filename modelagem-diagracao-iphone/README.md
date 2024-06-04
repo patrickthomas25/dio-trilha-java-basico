@@ -1,3 +1,4 @@
+```mermaid
 ---
 title: Modelagem e Diagramação de um Componente iPhone
 ---
@@ -37,5 +38,5 @@ classDiagram
     E --> B
     F --> C
     G --> D
-    
+```
 
